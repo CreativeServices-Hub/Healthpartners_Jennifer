@@ -90,14 +90,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap10();
-	this.instance.setTransform(-84.65,-19.85,0.2986,0.2986);
+	this.instance.setTransform(-97,-13,0.2986,0.2986);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-84.6,-19.8,169.3,39.7);
+p.nominalBounds = new cjs.Rectangle(-97,-13,169.3,39.7);
 
 
 (lib.Symbol4 = function(mode,startPosition,loop,reversed) {
@@ -113,14 +113,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.instance = new lib.Bitmap9();
-	this.instance.setTransform(-145,-20,0.295,0.295);
+	this.instance.setTransform(-140,-17,0.295,0.295);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-145,-20,290.3,39.3);
+p.nominalBounds = new cjs.Rectangle(-140,-17,290.3,39.3);
 
 
 (lib.Symbol3 = function(mode,startPosition,loop,reversed) {
@@ -136,14 +136,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap5();
-	this.instance.setTransform(-92,-70,0.2238,0.2238);
+	this.instance.setTransform(-99,-54,0.2238,0.2238);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-92,-70,173.2,92.7);
+p.nominalBounds = new cjs.Rectangle(-99,-54,173.2,92.7);
 
 
 (lib.Symbol2 = function(mode,startPosition,loop,reversed) {
@@ -159,14 +159,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.instance = new lib.Bitmap4();
-	this.instance.setTransform(-278,-204,0.2313,0.2313);
+	this.instance.setTransform(-276,-196,0.2313,0.2313);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-278,-204,512,367.7);
+p.nominalBounds = new cjs.Rectangle(-276,-196,512,367.7);
 
 
 // stage content:
@@ -214,10 +214,10 @@ if (reversed == null) { reversed = false; }
 
 	// Symbol_1
 	this.instance_4 = new lib.Bitmap8();
-	this.instance_4.setTransform(983,333,0.2137,0.2137);
+	this.instance_4.setTransform(983,335,0.2137,0.2137);
 
 	this.instance_5 = new lib.Bitmap7();
-	this.instance_5.setTransform(63,267,0.2179,0.2179);
+	this.instance_5.setTransform(66,275,0.1992,0.1992);
 
 	this.instance_6 = new lib.bg();
 	this.instance_6.setTransform(-7,-3,1.1282,1.1282);
@@ -227,7 +227,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(573.2,188.9,711.5999999999999,255.70000000000002);
+p.nominalBounds = new cjs.Rectangle(575.2,196.9,709.5999999999999,240.49999999999997);
 // library properties:
 lib.properties = {
 	id: '99F447CAF9434DCCA984A5449AB2875C',
