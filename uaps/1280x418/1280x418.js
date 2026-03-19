@@ -90,14 +90,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap10();
-	this.instance.setTransform(-97,-13,0.2986,0.2986);
+	this.instance.setTransform(-92,-18,0.2774,0.2774);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-97,-13,169.3,39.7);
+p.nominalBounds = new cjs.Rectangle(-92,-18,157.3,36.9);
 
 
 (lib.Symbol4 = function(mode,startPosition,loop,reversed) {
@@ -136,14 +136,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap5();
-	this.instance.setTransform(-99,-54,0.2238,0.2238);
+	this.instance.setTransform(-99,-55,0.2238,0.2238);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-99,-54,173.2,92.7);
+p.nominalBounds = new cjs.Rectangle(-99,-55,173.2,92.7);
 
 
 (lib.Symbol2 = function(mode,startPosition,loop,reversed) {
@@ -159,14 +159,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.instance = new lib.Bitmap4();
-	this.instance.setTransform(-276,-196,0.2313,0.2313);
+	this.instance.setTransform(-276,-197,0.2313,0.2313);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-276,-196,512,367.7);
+p.nominalBounds = new cjs.Rectangle(-276,-197,512,367.7);
 
 
 // stage content:
@@ -214,7 +214,7 @@ if (reversed == null) { reversed = false; }
 
 	// Symbol_1
 	this.instance_4 = new lib.Bitmap8();
-	this.instance_4.setTransform(983,335,0.2137,0.2137);
+	this.instance_4.setTransform(991,337,0.1966,0.1966);
 
 	this.instance_5 = new lib.Bitmap7();
 	this.instance_5.setTransform(66,275,0.1992,0.1992);
@@ -227,7 +227,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(575.2,196.9,709.5999999999999,240.49999999999997);
+p.nominalBounds = new cjs.Rectangle(575.2,195.9,709.5999999999999,241.49999999999997);
 // library properties:
 lib.properties = {
 	id: '99F447CAF9434DCCA984A5449AB2875C',
